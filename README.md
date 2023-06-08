@@ -16,3 +16,10 @@
 *Formularios:
 ![image](https://github.com/Kateparra/Taller-7_AmpliarmodeloRepository/assets/128449316/a25c6298-c598-446d-a459-00db85837dcb)
 ![image](https://github.com/Kateparra/Taller-7_AmpliarmodeloRepository/assets/128449316/8a73fbce-0be5-435d-9615-db1f528dc664)
+
+![image](https://github.com/Kateparra/Taller-7_AmpliarmodeloRepository/assets/128449316/1720ae87-9cbe-440f-957d-fb58ac9f44b2)
+![image (1)](https://github.com/Kateparra/Taller-7_AmpliarmodeloRepository/assets/128449316/0c671087-46f6-4814-9040-cbe3734d6ecc)
+![image (2)](https://github.com/Kateparra/Taller-7_AmpliarmodeloRepository/assets/128449316/aa9966f9-cded-4055-82bc-252beeca93a0)
+![image (3)](https://github.com/Kateparra/Taller-7_AmpliarmodeloRepository/assets/128449316/7d682c39-ce99-41ad-9391-7a852463f099)
+![image (4)](https://github.com/Kateparra/Taller-7_AmpliarmodeloRepository/assets/128449316/116e8033-53cd-4812-9bc4-b75cc65d9b41)
+![image (5)](https://github.com/Kateparra/Taller-7_AmpliarmodeloRepository/assets/128449316/bf344208-c2b5-471f-8fcf-0c08aa9be95b)
